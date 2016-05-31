@@ -15,6 +15,6 @@ public class HelloServlet extends HttpServlet {
     {
         // Very simple - just return some plain text
         PrintWriter writer = response.getWriter();
-        writer.print("Hello World. This is First Web Maven Project");
+        writer.print("Hello World. This is First change in Web Maven Project");
     }
 }
