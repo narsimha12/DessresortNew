@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	</classpathentry>
-	<classpathentry kind="lib" path="java/main/webapp/WEB-INF/lib/junit-4.10.jar"/>
-	<classpathentry kind="lib" path="java/main/webapp/WEB-INF/lib/mockito-all-1.10.19.jar"/>
+        <classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar"/>
+        <classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/uploadbean.jar"/>
+        <classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/cos.jar"/>
+        <classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/fileupload.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/mockito-all-1.10.19.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
