@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	</classpathentry>
+	<classpathentry kind="lib" path="java/main/webapp/WEB-INF/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="java/main/webapp/WEB-INF/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
