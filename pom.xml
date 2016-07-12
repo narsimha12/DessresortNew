@@ -43,6 +43,6 @@
             </configuration>
         </plugin>
     </plugins>
-    <finalName>MavenServlet-${build.number}</finalName>
+    <finalName>DessResort</finalName>
   </build>
 </project>
